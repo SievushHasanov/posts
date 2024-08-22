@@ -1,0 +1,9 @@
+.card-item {
+  box-shadow: 2px 2px 5px #a324c6;
+  transition: 0.5s ease-in-out;
+}
+
+.card-item:hover {
+  transform: scale(105%);
+  box-shadow: 5px 5px 15px #c036e6;
+}
